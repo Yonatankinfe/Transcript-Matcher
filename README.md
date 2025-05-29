@@ -23,3 +23,11 @@ text
 <00:01:23.456> This is a sample transcript
 <00:01:45.789> With custom timestamps
 ```
+# Output
+```bash
+=== Top Matches ===
+
+1. video1
+   00:05:10 → 00:05:15  (score: 0.8723)
+   "This is the matching segment text"
+...
