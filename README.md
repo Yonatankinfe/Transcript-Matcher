@@ -38,6 +38,7 @@ text
    00:05:10 → 00:05:15  (score: 0.8723)
    "This is the matching segment text"
 ...
+```
 # License
 
 
