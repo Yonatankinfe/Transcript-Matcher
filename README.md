@@ -15,11 +15,11 @@ git clone https://github.com/yourusername/TranscriptMatcher.git
 cd TranscriptMatcher
 ```
 
-### requirements.txt
+### Requirements
 ```txt
-sentence-transformers
-webvtt-py
-torch
+pip install sentence-transformers
+pip install webvtt-py
+pip install torch
 ```
 Transcript Formats
 WebVTT (.vtt): Standard subtitle format
