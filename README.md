@@ -15,7 +15,7 @@ git clone https://github.com/yourusername/TranscriptMatcher.git
 cd TranscriptMatcher
 ```
 
-### Requirements
+# Requirements
 ```txt
 pip install sentence-transformers
 pip install webvtt-py
@@ -24,7 +24,7 @@ pip install torch
 Transcript Formats
 WebVTT (.vtt): Standard subtitle format
 
-Text (.txt):
+# Input file Text (.txt):
 ```bash
 text
 <00:01:23.456> This is a sample transcript
