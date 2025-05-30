@@ -14,6 +14,13 @@ A Python tool for finding matching segments in video transcripts using semantic 
 git clone https://github.com/yourusername/TranscriptMatcher.git
 cd TranscriptMatcher
 ```
+
+### requirements.txt
+```txt
+sentence-transformers
+webvtt-py
+torch
+```
 Transcript Formats
 WebVTT (.vtt): Standard subtitle format
 
@@ -32,4 +39,5 @@ text
    "This is the matching segment text"
 ...
 # License
+
 
