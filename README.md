@@ -1,6 +1,6 @@
 # Transcript - Matcher
 
-A Python tool for finding matching segments in video transcripts using semantic similarity.
+A Python tool for finding matching segments in video transcripts using semantic similarity txt file only and a script txt file
 
 ## Features
 - Supports WebVTT (.vtt) and custom timestamped text (.txt) formats
